@@ -1,0 +1,2 @@
+name:bulloti
+age:20
